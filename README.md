@@ -2,9 +2,9 @@
 
 About : 
    🔭 I'm Currently working on Internship from Crio.do as Crio Fellowship in Software Development (Full stack Specialization).
-       During this Intership working on challenging tasks that will help to build technical skills and develop  problem-solving abilities. 
-       
-      Skill Set using : Git · REST APIs · Deployment · Linux Basics · Material-UI · Node.js · Document Object Model (DOM) · Event Handling · Bootstrap ·                            React.js · JavaScript · Cascading Style Sheets (CSS) · HTML5 · Postman API
+       During this Intership working on challenging tasks that will help to build technical skills and develop  problem-solving abilities.   
+      Skill Set using : Git · REST APIs · Deployment · Linux Basics · Material-UI · Node.js · Document Object Model (DOM) · Event Handling · Bootstrap 
+      ·React.js · JavaScript · Cascading Style Sheets (CSS) · HTML5 · Postman API
 
       I have total 1.4 years of experience on web automation testing where automated test script or test cases and find out the bug in the application and  also worked as physics tutor for 2.6 years where i applied my physics konwledge and skill and deliver it to hundreds of students.
     
