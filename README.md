@@ -8,7 +8,7 @@
       Git · REST APIs · Deployment · Linux Basics · Material-UI · Node.js · Document Object Model (DOM) · Event Handling 
       · Bootstrap  ·React.js · JavaScript · Cascading Style Sheets (CSS) · HTML5 · Postman API
       </div> <br/> <br/> <br/>
-           <div style="display: flex; gap: 50px; flex-wrap: wrap; align-items: center;">
+           <div style="display: flex;">
                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60px"                   width="60px" />
                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60px"                             width="60px"/>
                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60px"                     width="60px"/>
@@ -25,17 +25,15 @@
                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="60px"                  width="60px"/> 
            </div>
             <br/>  <br/>              
-           <div style="font-size: medium; font-style: italic; font-weight: 600;">
+           <div>
               I have total 1.4 years of experience on web automation testing where automated test script or test cases and                  find out the bug in the application and  also worked as physics tutor for 2.6 years where i applied my physics                konwledge and skill  and deliver it to hundreds of students.
               In my free time, i solve problem on leetCode and read tech article.
           </div>
           <br/> 
-      <div style="font-weight: 800; font-size: large; color: darkblue;">How to reach me : 
+      <div>How to reach me : 
         <a href="https://www.linkedin.com/in/rahul-raj-a6a21a125/" target=”_blank”> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" 
-            height="20px"                                                      
-            style="margin-left: 12px;margin-top: 15px;"
-            />
+               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" 
+            height="20px"/>
         </a>
     </div> 
        <br/> <br/>   
