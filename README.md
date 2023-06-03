@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Rahul Raj(https://www.crio.do/learn/portfolio/amitrahul217/)
+# 👋 Hello, I'm <a href="https://www.crio.do/learn/portfolio/amitrahul217/" target="_blank" style="text-decoration: none; font-style: inherit; font-weight: 800;">Rahul Raj</a>
 
 About : 
    🔭 I'm Currently working on Internship from Crio.do as Crio Fellowship in Software Development (Full stack Specialization).
@@ -16,8 +16,8 @@ Skill Set using :
                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="60px"                  width="60px"/>
                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"                              height="60px" width="60px"/>
                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="60px"                        width="60px"/>
-               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="60px"                             width="60px"/>       
-               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60px"                           width="60px"/>
+               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="60px"                             width="60px"/>          
+               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="60px"                  width="60px"/>         
                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60px" width="60px"/>
                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="60px"                   width="60px"/>
                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain.svg" height="60px"                              width="60px"/>
@@ -28,8 +28,10 @@ Skill Set using :
            </p>
               I have total 1.4 years of experience on web automation testing where automated test script or test cases and                  find out the bug in the application and  also worked as physics tutor for 2.6 years where i applied my physics                konwledge and skill  and deliver it to hundreds of students.
               In my free time, i solve problem on leetCode and read tech article.  
-              How to reach me : https://www.linkedin.com/in/rahul-raj-a6a21a125/
+              How to reach me : <a href="https://www.linkedin.com/in/rahul-raj-a6a21a125/" target=”_blank” > 
+                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" height="60px"                           width="60px"/>
+                </a>
            
- [![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitrahul)](https://github.com/amitrahul/github-readme-stats)
+
  ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitrahul&show_icons=true&theme=radical)
 
