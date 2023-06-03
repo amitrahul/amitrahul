@@ -1,13 +1,13 @@
 # 👋 Hello, I'm <a href="https://www.crio.do/learn/portfolio/amitrahul217/" target="_blank" style="text-decoration: none; font-style: inherit; font-weight: 800;">Rahul Raj</a>
 
-<div style="font-weight: 800; font-size: large; color: darkblue;">About :- 
+<div> About :-  </div>
        <div style="font-size: medium; font-style: italic; font-weight: 600;">
         🔭 I'm Currently working on Internship from Crio.do as Crio Fellowship in Software Development (Full stack       Specialization). During this Intership working on challenging tasks that will help to build technical skills and develop problem solving abilities. 
-    </div>  </div> <br/> 
- <div style="font-weight: 800; font-size: large; color: darkblue;">Skill Set using : </div>                   
+    </div>  <br/> 
+ <div style="font-weight: 800; font-size: large; color: darkblue;">Skill Set using :- </div>                   
       Git · REST APIs · Deployment · Linux Basics · Material-UI · Node.js · Document Object Model (DOM) · Event Handling 
       · Bootstrap  ·React.js · JavaScript · Cascading Style Sheets (CSS) · HTML5 · Postman API
-      </div> <br/> 
+      </div> <br/> <br/> <br/>
            <div style="display: flex; gap: 50px; flex-wrap: wrap; align-items: center;">
                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60px"                   width="60px" />
                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60px"                             width="60px"/>
