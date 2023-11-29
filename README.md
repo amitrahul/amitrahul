@@ -1,8 +1,8 @@
-# 👋 Hello, I'm <a href="https://www.crio.do/learn/portfolio/amitrahul217/" target="_blank" style="text-decoration: none; font-style: inherit; font-weight: 800;">Rahul Raj</a>
+# 👋 Hello, I'm Rahul Raj
 
 <div> About :-  </div>
        <div style="font-size: medium; font-style: italic; font-weight: 600;">
-        🔭 I'm Currently working on Internship from Crio.do as Crio Fellowship in Software Development (Full stack       Specialization). During this Intership working on challenging tasks that will help to build technical skills and develop problem solving abilities. 
+        🔭 I'm a skilled Software developer with experience(~2 years) in Software development and Software testing. I have expertise in JavaScript, and frameworks like React, Node.js. I'm a quick learner and collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems
     </div>  <br/> 
  <div style="font-weight: 800; font-size: large; color: darkblue;">Skill Set using :- </div>                   
       Git · REST APIs · Deployment · Linux Basics · Material-UI · Node.js · Document Object Model (DOM) · Event Handling 
