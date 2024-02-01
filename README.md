@@ -26,7 +26,7 @@
            </div>
             <br/>  <br/>              
            <div>
-              I have total 1.4 years of experience on web automation testing where automated test script or test cases and                  find out the bug in the application and  also worked as physics tutor for 2.6 years where i applied my physics                konwledge and skill  and deliver it to hundreds of students.
+              I have total 3.1 years of experience on web automation testing where automated test script or test cases and                  find out the bug in the application and  also worked as physics tutor for 2 years where i applied my physics                konwledge and skill  and deliver it to hundreds of students.
               In my free time, i solve problem on leetCode and read tech article.
           </div>
           <br/> 
